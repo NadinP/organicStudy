@@ -1,0 +1,12 @@
+header {
+	background: #777;
+}
+.logo {
+	display: inline-block;
+}
+.header-navigation {
+	display: inline-block;
+}
+.header-navigation li {
+	display: inline-block;
+}
